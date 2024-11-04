@@ -1,0 +1,13 @@
+{
+    "Client": {
+        "TOKEN": "...",
+        "PREFIX": "..."
+        },
+    
+    "Cassandra": {
+        "HOST": "...",
+        "USER": "...",
+        "PASSWORD": "...",
+        "KEYSPACE": "..."
+    }
+}
